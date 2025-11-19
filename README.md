@@ -2,10 +2,7 @@
 
 A new Flutter project.
 
-## BITRISE
-
-
-# Nama Aplikasi Kamu
+# FOOTBALL NEWS - BITRISE
 
 [![Build Status](https://app.bitrise.io/app/35abaa17-176a-4725-a21c-ddd0f2d78ef6/status.svg?token=zDz38aqV3yVpBqZPVJpiHQ&branch=main)](https://app.bitrise.io/app/35abaa17-176a-4725-a21c-ddd0f2d78ef6)
     
